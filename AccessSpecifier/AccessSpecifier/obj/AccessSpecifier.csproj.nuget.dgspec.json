@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\darsh\\OneDrive\\Desktop\\VS Projects Zensor .NET Training\\AccessSpecifier\\AccessSpecifier\\AccessSpecifier.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\darsh\\OneDrive\\Desktop\\VS Projects Zensor .NET Training\\AccessSpecifier\\AccessSpecifier\\AccessSpecifier.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\darsh\\OneDrive\\Desktop\\VS Projects Zensor .NET Training\\AccessSpecifier\\AccessSpecifier\\AccessSpecifier.csproj",
+        "projectName": "AccessSpecifier",
+        "projectPath": "C:\\Users\\darsh\\OneDrive\\Desktop\\VS Projects Zensor .NET Training\\AccessSpecifier\\AccessSpecifier\\AccessSpecifier.csproj",
+        "packagesPath": "C:\\Users\\darsh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\darsh\\OneDrive\\Desktop\\VS Projects Zensor .NET Training\\AccessSpecifier\\AccessSpecifier\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\darsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

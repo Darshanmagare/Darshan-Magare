@@ -1,0 +1,32 @@
+C:\Users\darsh\source\repos\AccessSpecifier\AccessSpecifier\obj\Debug\net5.0\AccessSpecifier.csproj.AssemblyReference.cache
+C:\Users\darsh\source\repos\AccessSpecifier\AccessSpecifier\obj\Debug\net5.0\AccessSpecifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darsh\source\repos\AccessSpecifier\AccessSpecifier\obj\Debug\net5.0\AccessSpecifier.AssemblyInfoInputs.cache
+C:\Users\darsh\source\repos\AccessSpecifier\AccessSpecifier\obj\Debug\net5.0\AccessSpecifier.AssemblyInfo.cs
+C:\Users\darsh\source\repos\AccessSpecifier\AccessSpecifier\obj\Debug\net5.0\AccessSpecifier.csproj.CoreCompileInputs.cache
+C:\Users\darsh\source\repos\AccessSpecifier\AccessSpecifier\bin\Debug\net5.0\AccessSpecifier.exe
+C:\Users\darsh\source\repos\AccessSpecifier\AccessSpecifier\bin\Debug\net5.0\AccessSpecifier.deps.json
+C:\Users\darsh\source\repos\AccessSpecifier\AccessSpecifier\bin\Debug\net5.0\AccessSpecifier.runtimeconfig.json
+C:\Users\darsh\source\repos\AccessSpecifier\AccessSpecifier\bin\Debug\net5.0\AccessSpecifier.runtimeconfig.dev.json
+C:\Users\darsh\source\repos\AccessSpecifier\AccessSpecifier\bin\Debug\net5.0\AccessSpecifier.dll
+C:\Users\darsh\source\repos\AccessSpecifier\AccessSpecifier\bin\Debug\net5.0\ref\AccessSpecifier.dll
+C:\Users\darsh\source\repos\AccessSpecifier\AccessSpecifier\bin\Debug\net5.0\AccessSpecifier.pdb
+C:\Users\darsh\source\repos\AccessSpecifier\AccessSpecifier\obj\Debug\net5.0\AccessSpecifier.dll
+C:\Users\darsh\source\repos\AccessSpecifier\AccessSpecifier\obj\Debug\net5.0\ref\AccessSpecifier.dll
+C:\Users\darsh\source\repos\AccessSpecifier\AccessSpecifier\obj\Debug\net5.0\AccessSpecifier.pdb
+C:\Users\darsh\source\repos\AccessSpecifier\AccessSpecifier\obj\Debug\net5.0\AccessSpecifier.genruntimeconfig.cache
+C:\Users\darsh\OneDrive\Desktop\VS Projects Zensor .NET Training\AccessSpecifier\AccessSpecifier\bin\Debug\net5.0\AccessSpecifier.exe
+C:\Users\darsh\OneDrive\Desktop\VS Projects Zensor .NET Training\AccessSpecifier\AccessSpecifier\bin\Debug\net5.0\AccessSpecifier.deps.json
+C:\Users\darsh\OneDrive\Desktop\VS Projects Zensor .NET Training\AccessSpecifier\AccessSpecifier\bin\Debug\net5.0\AccessSpecifier.runtimeconfig.json
+C:\Users\darsh\OneDrive\Desktop\VS Projects Zensor .NET Training\AccessSpecifier\AccessSpecifier\bin\Debug\net5.0\AccessSpecifier.runtimeconfig.dev.json
+C:\Users\darsh\OneDrive\Desktop\VS Projects Zensor .NET Training\AccessSpecifier\AccessSpecifier\bin\Debug\net5.0\AccessSpecifier.dll
+C:\Users\darsh\OneDrive\Desktop\VS Projects Zensor .NET Training\AccessSpecifier\AccessSpecifier\bin\Debug\net5.0\ref\AccessSpecifier.dll
+C:\Users\darsh\OneDrive\Desktop\VS Projects Zensor .NET Training\AccessSpecifier\AccessSpecifier\bin\Debug\net5.0\AccessSpecifier.pdb
+C:\Users\darsh\OneDrive\Desktop\VS Projects Zensor .NET Training\AccessSpecifier\AccessSpecifier\obj\Debug\net5.0\AccessSpecifier.csproj.AssemblyReference.cache
+C:\Users\darsh\OneDrive\Desktop\VS Projects Zensor .NET Training\AccessSpecifier\AccessSpecifier\obj\Debug\net5.0\AccessSpecifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darsh\OneDrive\Desktop\VS Projects Zensor .NET Training\AccessSpecifier\AccessSpecifier\obj\Debug\net5.0\AccessSpecifier.AssemblyInfoInputs.cache
+C:\Users\darsh\OneDrive\Desktop\VS Projects Zensor .NET Training\AccessSpecifier\AccessSpecifier\obj\Debug\net5.0\AccessSpecifier.AssemblyInfo.cs
+C:\Users\darsh\OneDrive\Desktop\VS Projects Zensor .NET Training\AccessSpecifier\AccessSpecifier\obj\Debug\net5.0\AccessSpecifier.csproj.CoreCompileInputs.cache
+C:\Users\darsh\OneDrive\Desktop\VS Projects Zensor .NET Training\AccessSpecifier\AccessSpecifier\obj\Debug\net5.0\AccessSpecifier.dll
+C:\Users\darsh\OneDrive\Desktop\VS Projects Zensor .NET Training\AccessSpecifier\AccessSpecifier\obj\Debug\net5.0\ref\AccessSpecifier.dll
+C:\Users\darsh\OneDrive\Desktop\VS Projects Zensor .NET Training\AccessSpecifier\AccessSpecifier\obj\Debug\net5.0\AccessSpecifier.pdb
+C:\Users\darsh\OneDrive\Desktop\VS Projects Zensor .NET Training\AccessSpecifier\AccessSpecifier\obj\Debug\net5.0\AccessSpecifier.genruntimeconfig.cache
